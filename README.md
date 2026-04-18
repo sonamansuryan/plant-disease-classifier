@@ -47,8 +47,8 @@ To satisfy the host-agnostic requirement, folder names are parsed at runtime usi
 
 | Metric | Value |
 |--------|-------|
-| Best Validation mAP | **88.35%** |
-| Final Inference Accuracy (with TTA) | **~92.1%** |
+| Best Validation mAP (Standard) | **88.35%** |
+| Final Inference mAP (Estimated with TTA) | **~92.1%** |
 | Hardware | Tesla T4 GPU (Training) / Docker CPU (Inference) |
 
 👉 **[View Full Experiment Logs on W&B](https://wandb.ai/mansuryansona04-npua/plant-disease-clf)**
