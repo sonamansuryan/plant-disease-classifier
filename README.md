@@ -50,7 +50,7 @@ To satisfy the host-agnostic requirement, folder names are parsed at runtime usi
 | Final Inference mAP (Estimated with TTA) | **~92.1%** |
 | Hardware | Tesla T4 GPU (Training) / Docker CPU (Inference) |
 
-👉 **[View Full Experiment Logs on W&B](https://wandb.ai/mansuryansona04-npua/plant-disease-clf)**
+👉 **[View Full Experiment Logs on W&B](https://api.wandb.ai/links/mansuryansona04-npua/5hh3c630)f)**
 
 | Training Loss | Validation mAP |
 |---------------|----------------|
@@ -111,4 +111,4 @@ The trained weights are hosted on Hugging Face to satisfy technical hosting requ
 ## Technical Report
 A comprehensive academic-style report covering methodology, ablation studies, and results is included in the repository.
 
-👉 **[View Technical Report (PDF)](./Technical_Report_AgriVision.pdf)**
+👉 **[View Technical Report (PDF)](ttps://drive.google.com/file/d/1K9lImiZbpOQ2wv_i0W37uhe_v3vFRssz/view?usp=sharing)**
